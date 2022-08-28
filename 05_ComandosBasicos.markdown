@@ -6,7 +6,7 @@ ls - lista os arquivos
 
 type - mostra se o comando vem de um shell builtin, hash ou caminho do executável
 
-whith - mostra o local do executável referente ao comando
+which - mostra o local do executável referente ao comando
 
 whereis - mostra tudo que for referente ao executável(Manual, local do executável)
 
